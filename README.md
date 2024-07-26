@@ -21,7 +21,7 @@ This repository contains a simple slot machine game built using SwiftUI. The gam
 ## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a49a5d99-e9e4-4f0d-bbf4-dbca2f98bd04" alt="Image 1" style="margin: 10px; width: 280px;">
-  <img src="https://github.com/user-attachments/assets/5c140c99-d6a8-4701-8b81-119b639bef91" alt="Image 2" style="margin: 10px; width: 280px
+  <img src="https://github.com/user-attachments/assets/5c140c99-d6a8-4701-8b81-119b639bef91" alt="Image 2" style="margin: 10px; width: 280px;">
 </p>
 
 ## Contributing
