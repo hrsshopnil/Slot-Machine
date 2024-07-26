@@ -19,11 +19,11 @@ This repository contains a simple slot machine game built using SwiftUI. The gam
 3. Build and run the app on your simulator or device
 
 ## Screenshots
-Include screenshots of your game here.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a49a5d99-e9e4-4f0d-bbf4-dbca2f98bd04" alt="Image 1" style="margin: 10px; width: 280px;">
+  <img src="https://github.com/user-attachments/assets/4ef0ccac-e7f6-4f6a-90f6-c2f0b25eba66" alt="Image 2" style="margin: 10px; width: 280px
+</p>
 
 ## Contributing
 Feel free to submit pull requests or open issues to improve the game. Contributions are welcome!
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
